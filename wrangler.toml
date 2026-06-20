@@ -8,4 +8,5 @@ keep_vars = true
 #id = ""				#KV数据库id
 [vars]
    UUID = "f71ea402-c1a4-44a0-a8a5-05b1e6703b95"
+   ADMIN = "tang1234"
    keep_vars = true
